@@ -1,0 +1,89 @@
+=== Derry Girls Full Dialect Feature Report ===
+
+## Never_Negator (Total Found: 16)
+---------------------------------------------
+L102: never came -> He's English, Orla. That's the way they talk. He's my Auntie Kathy's wain. I told you about my Auntie Kathy. She went to England years ago to have an abortion, never came back.  Never got the abortion either. Lucky for you, James, eh? Ha!
+L102: Never got -> He's English, Orla. That's the way they talk. He's my Auntie Kathy's wain. I told you about my Auntie Kathy. She went to England years ago to have an abortion, never came back.  Never got the abortion either. Lucky for you, James, eh? Ha!
+L1253: never lived -> Your mother never lived in this house.
+L3184: never got -> You said it yourself, Erin, the greats don't come here. We never got to see Bros, New Kids on the Block, Right Said Fred.
+L3392: never did -> But then, the apple never did fall far from the tree.
+L3394: never did -> Yous girls never did know how to conduct yourselves. Nothing but a pair of hallions.
+L3479: never said -> I never said that!
+L4437: never did -> It will work out! Anyway, it's not like I belong here. I never did.
+L4934: never seen -> Have you never seen
+L5514: Never got -> Never got around to it.
+L5788: never trusted -> Well, I never trusted her,
+L6429: never satisfied -> you never satisfied me sexually.
+L6661: never wanted -> We never wanted it to come to this.
+L7545: never married -> She never married.
+L8076: never heard -> You've probably never heard me
+L10303: never seen -> I mean, how have you never seen it,
+
+## Conditional_Was (Total Found: 8)
+---------------------------------------------
+L1788: if I was -> So if I was to go next door and open that washing basket of yours
+L1839: if I was -> No, I'm not. I'm collecting Mary's photographs. And if I was having an illicit rendezvous with my mistress, I'm not sure that the supermarket that my father-in-law is doing the big shop in would be the best place for it, really.
+L2073: if it was -> No, I mean, I'd be less surprised if it was you.
+L2075: if it was -> No, it's not, but if it was-
+L5621: If I was -> If I was with someone too clever,
+L7984: if she was -> Jesus, if she was chocolate
+L9812: If I was -> If I was your Niall I'd be begging
+L10479: if there was -> if there was a blackout?
+
+## 2nd_Person_Pronouns (Total Found: 23)
+---------------------------------------------
+L163: yous -> Apparently, you guys threatened one of the new girls. Said yous were gonna beat her up.
+L732: thee -> Hail Mary, full of grace, the Lord is with thee. Blessed art thou among-
+L732: thou -> Hail Mary, full of grace, the Lord is with thee. Blessed art thou among-
+L883: ye -> Why seek ye the living among the dead? He is not here but is risen. Come.  Come see the place where the Lord lay. God is inviting us to be his witness.
+L1309: thou -> Blessed art thou, and blessed is the fruit of thy womb, Jesus.
+L2161: yous -> Have yous not heard? You know your man? Floppy hair, English, he's all 'fuck-a-doodle this', 'fuck-a-doodle that'. He's flat out going to weddings with his mates until one of them, the fat, beardy one in the skirt, until he croaks it and they're all, 'We need to show this man a bit of respect here, let's stop all the clocks'.
+L2367: yous -> Well yous are now.
+L2584: ye -> Hiya, how are ye?
+L3085: ya -> Am I going to have to come after ya, am I?
+L3306: Yous -> Still a prick, I see, Joe. Christ knows what our Marie ever saw in you, God rest her soul. Yous must still miss her terribly, girls.
+L3394: Yous -> Yous girls never did know how to conduct yourselves. Nothing but a pair of hallions.
+L3497: yous -> Do yous want to see something class?
+L4221: yous -> Will yous all just shut the fuck up? It's fine! She's not a kidnapper.
+L4322: yous -> Och well, at least yous were given the day off, sure, that's something.
+L4378: ye -> What are ye at?
+L4568: ye -> He'll hear ye! I don't care!
+L4655: yous -> yous gonna get something, or not?
+L4815: yous -> I'm gonna ask yous something now,
+L4816: yous -> and I want yous to give me
+L5158: ye -> take him with ye.
+L5163: ya -> Ah, Jim. What about ya?
+L5203: yous -> I'm watching all of yous.
+L10110: yous -> So did yous just make
+
+## Them_Demonstrative (Total Found: 7)
+---------------------------------------------
+L23: Them wains -> Them wains shouldn't have to take the bus to school. You should be driving them, you useless shit.
+L2146: them woods -> Orla really thrives in the wild, you know. That time we went camping in Portsalon, sure, she was like Mowgli running around them woods. She was that happy, Mary, I honestly thought about just leaving her there.
+L2242: them braces -> She has been fucking unbearable since them braces came off.
+L4332: them eyebrows -> And fair play to you, Cathy. You've kept them eyebrows shipshape, so you have. Credit where credit's due.
+L5414: Them wains -> No, Erin. Them wains
+L9194: Them Sisters -> Them Sisters of Mercy saw us coming.
+L9485: them has -> One of them has gone solo.
+
+## Existential_There_Singular (Total Found: 18)
+---------------------------------------------
+L58: There's this -> What's happening over there is really lousy, Erin. Father Conway showed us a video. There's this one wee fella, Kamal. He's only ten and every morning he walks twenty-five miles to the nearest well.
+L161: there was some -> This is a bit awkward, but part of my role as prefect is welcoming the first-year students. And it's come to my attention that there was some sort of an incident on the bus this morning.
+L1443: there's times -> Listen Mary, I understand. I mean, he's my nephew, and even I find it hard to get past. If I'm totally honest, there's times when I look at him and I feel   Well It's pure hatred. I'll not dress it up.
+L2945: there's five -> But there's five of us, so
+L2957: There's mixers -> No. There's mixers as well. I'm not a savage. You can mix vodka with cider, right?
+L3829: There is lots of -> There is lots of things wrong with my Easter dress.
+L3878: there is some -> Well, I mean, there is some truth in it.
+L3910: there's this -> Well I've narrowed it down to two. There's big Johnny Kells who works in Dunnes. Thick as fuck, but a massive, massive ride. Then there's this other fella, he's not as thick, but he's also not as hot, although I have heard he is really good with his hands. And when I say he's good with his hands, I'm not talking about putting up shelves, girls. I'm talking about...
+L5515: There was always -> There was always something more
+L5630: there's chimpanzees -> Sure, there's chimpanzees
+L6393: There's lots -> There's lots we could talk about.
+L6396: there was this -> OK, so last night there was this
+L6533: there's some -> Yeah, there's some there.
+L6608: there's 500 -> there's 500 quid missing.
+L7660: there is six -> So, there is six hours
+L8369: There's lots -> There's lots you haven't seen,
+L9113: There's hundreds -> There's hundreds of them!
+L9117: There's clowns -> There's clowns to the left of me,
+
